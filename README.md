@@ -44,8 +44,7 @@ The model is licensed under the [Apache 2.0 license](LICENSE)
 
 ## Acknowledgements
 
-+ [DEAP_MNE_preprocessing
-Public](https://github.com/gzoumpourlis/DEAP_MNE_preprocessing)
++ [DEAP_MNE_preprocessing](https://github.com/gzoumpourlis/DEAP_MNE_preprocessing)
 
 ## Citation
 Our paper has been accepted by MICCAI 2024. Remenber to cite the paper if you find this work useful.
